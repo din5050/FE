@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 300px;
+    
+}
+h1{
+    color: rgb(244, 148, 13);
+    text-align: center;
+}
+div{
+    border: 2px solid rgb(67, 120, 219);
+    margin: 20px;
+    padding: 20px;
+    color: rgb(7, 7, 7);
+    background-color: bisque;
+
+}
+
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.aim img{
+    width: 250;
+}
+.aim img{
+    width: 150px;
+}
+.aim{
+    background-color: rgb(127, 154, 245);
+
+}
+.what img{
+    width: 150px;
+}
+.what{
+    background-color: rgb(84, 134, 226);
+}
+.portfolio img{
+    width: 150px;
+    margin: 15px;
+    padding: 20px;
+    
+}
+.portfolio{
+    background-color: rgb(191, 153, 227);
+}
+.cotial-media{
+    text-align: center;
+}
+.memu{
+  text-align: right;  
+}
+.list{
+padding: 10px;
+padding-left: 40px;
+margin: 30px;
+border: 2px solid black; 
+}
+ul{
+    list-style: disc;
+    font-size: 30;
+    font-weight: 200;
+}
+ol{
+    list-style: circle;
+}
+.number{
+    list-style: inside;
+}
+.number1{
+    list-style: inside;
+}
+.number2{
+    list-style: inside;
+    
+}
+table{
+    border-collapse: collapse;
+    padding: 10px;
+    margin: 2px;
+}
+.link{
+    margin: 10px;
+}
