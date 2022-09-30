@@ -1,3 +1,3 @@
 # FE
 
-https://github.com/din5050/FE/blob/master/lesson1/index.html
+[index](https://din5050.github.io/FE/lesson1/index.html)
